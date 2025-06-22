@@ -14,7 +14,7 @@ export default function Footer() {
   const contactInfo = [
     {
       icon: <MdEmail />,
-      value: "smart@gmail.com",
+      value: "Smart@gmail.com",
     },
     {
       icon: <MdPhoneInTalk />,
