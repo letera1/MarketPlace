@@ -11,14 +11,14 @@ export default function CreateAndSell() {
       image: sell1,
       title: "Create your collection",
       description:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.",
+        "Lorem Ipsum hulo is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.",
       buttonText: "Create",
     },
     {
       image: sell2,
       title: "Add your NFTs",
       description:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.",
+        "Lorem Ipsum hulo is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.",
       buttonText: "Add NFT",
     },
     {
