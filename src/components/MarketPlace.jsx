@@ -60,7 +60,7 @@ export default function MarketPlace() {
       <div className="title">
         <h2>NFT Marketplace</h2>
         <p>
-          Lorem Ipsum is simply dummy text of the printing and typesetting
+          Lorem Ipsum  hulo is simply dummy text of the printing and typesetting
           industry. Lorem Ipsum has been the industry's standard.
         </p>
       </div>
