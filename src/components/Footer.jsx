@@ -14,11 +14,11 @@ export default function Footer() {
   const contactInfo = [
     {
       icon: <MdEmail />,
-      value: "Smart@gmail.com",
+      value: "letertujo890@gmail.com",
     },
     {
       icon: <MdPhoneInTalk />,
-      value: "+2519-55501023",
+      value: "+2519-45618348",
     },
     {
       icon: <IoLocationSharp />,
