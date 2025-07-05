@@ -22,7 +22,7 @@ export default function Footer() {
     },
     {
       icon: <IoLocationSharp />,
-      value: "Sheger",
+      value: "Sheger City",
     },
   ];
   const socialIcons = [
