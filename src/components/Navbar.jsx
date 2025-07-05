@@ -31,7 +31,7 @@ export default function Navbar() {
             <a href="home">Home</a>
           </li>
           <li>
-            <a href="maketplace">Marketplace</a>
+            <a href="maketplace">Marketplaces</a>
           </li>
           <li>
             <a href="sellers">Seller</a>
