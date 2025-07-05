@@ -18,7 +18,7 @@ export default function CreateAndSell() {
       image: sell2,
       title: "Add your NFTs",
       description:
-        "Lorem Ipsum hulo is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.",
+        "Lorem Ipsum erohulo is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.",
       buttonText: "Add NFT",
     },
     {
