@@ -16,7 +16,7 @@ export default function Home() {
             <span>
               <img src={heroText} alt="Hero Text" />
             </span>{" "}
-            Digital NFT Market Place
+            Digital NFT Market Places
           </h1>
           <p>
             Lorem Ipsum hulo is simply dummy text of the printing and typesetting
