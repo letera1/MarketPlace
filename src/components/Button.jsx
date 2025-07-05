@@ -11,7 +11,7 @@ export default function Button({ text, blue = false }) {
 const Div = styled.div`
   button {
     border-radius: 4rem;
-    padding: 0.8rem 2rem;
+    padding: 0.7rem 2rem;
     border: none;
     color: white;
     font-size: 1.1rem;
