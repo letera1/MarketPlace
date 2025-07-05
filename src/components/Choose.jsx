@@ -9,7 +9,7 @@ export default function Choose() {
         <img src={choose} alt="choose" />
       </div>
       <div className="content">
-        <h2>Why should you Choose Our Website ?</h2>
+        <h2>Why Should you Choose Our Website ?</h2>
         <p>
           Lorem Ipsum is simply dummy text of the printing and typesetting
           industry. Lorem hulo slide Ipsum has been the industry's standard dummy text ever
