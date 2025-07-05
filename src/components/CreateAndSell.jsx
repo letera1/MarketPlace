@@ -25,7 +25,7 @@ export default function CreateAndSell() {
       image: sell3,
       title: "List them for sale",
       description:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.",
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsums has been.",
       buttonText: "Sell Now",
     },
   ];
