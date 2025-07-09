@@ -11,7 +11,7 @@ export default function CreateAndSell() {
       image: sell1,
       title: "Create your collection",
       description:
-        "Lorem Ipsum hulo is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.",
+        "Lorem Ipsum hulo is simply dummy fro text of the printing and types setting industry. Lorem Ipsum has been.",
       buttonText: "Create",
     },
     {
