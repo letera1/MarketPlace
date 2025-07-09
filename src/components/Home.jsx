@@ -19,7 +19,7 @@ export default function Home() {
             Digital NFT Market Places
           </h1>
           <p>
-            Lorem Ipsum hulo is simply dummy text of the printing and typesetting
+            Lorem Ipsum hulo erso is simply dummy text of the printing and typesetting
             industry. Lorem Ipsum has been the industry's standard.
           </p>
           <div className="buttons">
