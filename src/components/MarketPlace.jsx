@@ -20,19 +20,19 @@ export default function MarketPlace() {
     },
     {
       image: marketplace2,
-      name: "Pedram-mohamm...",
+      name: "Pedram-mohamm....",
     },
     {
       image: marketplace3,
-      name: "Eduardo-pena",
+      name: "Eduardo-pena..",
     },
     {
       image: marketplace4,
-      name: "Daeho-cha",
+      name: "Daeho-cha..",
     },
     {
       image: marketplace5,
-      name: "Justine-florentino",
+      name: "Justine-florentino..",
     },
     {
       image: marketplace6,
