@@ -22,7 +22,7 @@ export default function Footer() {
     },
     {
       icon: <IoLocationSharp />,
-      value: "Sheger City",
+      value: "sheger city",
     },
   ];
   const socialIcons = [
@@ -61,7 +61,7 @@ export default function Footer() {
         </ul>
       </div>
       <div className="row">
-        <h3>Contact Us</h3>
+        <h3>contact us</h3>
         <ul>
           {contactInfo.map(({ icon, value }) => {
             return (
