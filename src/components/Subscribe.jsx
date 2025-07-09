@@ -8,7 +8,7 @@ export default function Subscribe() {
       <div className="content">
         <h2>Subscribe for Get update every New Offers</h2>
         <p>
-          Lorem Ipsum hulo is simply dummy text of the printing and typesetting
+          Lorem Ipsum hulobo tudo is simply dummy text of the printing and typesetting
           industry. Lorem Ipsum has been the industry's standard.
         </p>
         <div className="input-container">
