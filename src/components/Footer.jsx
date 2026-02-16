@@ -39,8 +39,8 @@ export default function Footer() {
         </div>
         <p className="description">sheger</p>
         <div className="social-icons">
-          {socialIcons.map((icon) => {
-            return <div className="icon">{icon}</div>;
+          {socialIcons.map((icon, index) => {
+            return <div className="icon" key={index}>{icon}</div>;
           })}
         </div>
       </div>
@@ -65,7 +65,7 @@ export default function Footer() {
         <ul>
           {contactInfo.map(({ icon, value }) => {
             return (
-              <li>
+              <li key={value}>
                 <div className="icon">{icon}</div>
                 <span>{value}</span>
               </li>

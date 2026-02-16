@@ -70,9 +70,9 @@ export default function MarketPlace() {
         })}
       </div>
       <div className="marketPlaces">
-        {marketPlaceData.map(({ image, name }) => {
+        {marketPlaceData.map(({ image, name }, index) => {
           return (
-            <div className="marketplace">
+            <div className="marketplace" key={index}>
               <div className="image">
                 <img src={image} alt="marketplace" />
               </div>

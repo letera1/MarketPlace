@@ -9,9 +9,13 @@ function ScrollToTop() {
 
   return (
     <Div>
-      <a href="#" className={`${visible ? "block" : "none"}`}>
+      <button
+        type="button"
+        className={`${visible ? "block" : "none"}`}
+        onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+      >
         <FaChevronUp />
-      </a>
+      </button>
     </Div>
   );
 }
@@ -22,18 +26,20 @@ const Div = styled.div`
     opacity: 0;
     visibility: hidden;
   }
-  a {
+  button {
     position: fixed;
     bottom: 40px;
     right: 40px;
     background-color: #2d69fd;
     padding: 1rem;
+    border: none;
     border-radius: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     transition: 0.4s ease-in-out;
     z-index: 25;
+    cursor: pointer;
     svg {
       color: white;
       font-size: 1.3rem;
